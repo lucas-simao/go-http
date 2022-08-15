@@ -1,6 +1,6 @@
-# ddd-go
+# go-http
 
-#### This is an API to study and apply knowledge about DDD
+#### This is an API to study and apply knowledge about [net/http](https://pkg.go.dev/net/http)
 
 ### Requirements
 * [Go](https://golang.org/doc/install) >= 1.16
